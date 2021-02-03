@@ -9,6 +9,7 @@ DNI char[10]
 Legajo int
 CodigoCarrera int
 ```
+Esructura "Materia":
 ```
 Nombre de la materia char[50]
 Fecha de aprobación char[11]
