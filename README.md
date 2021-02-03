@@ -1,6 +1,6 @@
 # Insertar-datos-desde-una-archivo-hacia-una-lista
 Programa que lee desde un archivo datos de alumnos de un curso, que a medida que el archivo se va leyendo va insertando los registros en una lista.
-Siendo la estructura "Alumnos" la siguiente:
+- Siendo la estructura "Alumnos" la siguiente:
 
 ```
 Nombre char[50]
