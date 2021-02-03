@@ -28,6 +28,7 @@ Folio int
 4. Agregar un alumno.
 5. Agregar materia aprobada a un alumno.
 6. Salir del programa.
+
 Cuando el usuarion decide salir, posteriormente el programa inserta en los archivos correspondientes los
 registros que se hayan agregado en la ejecución y libera toda la memoria solicitada.
 
