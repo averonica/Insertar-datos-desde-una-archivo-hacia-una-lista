@@ -1,5 +1,6 @@
 # Insertar-datos-desde-una-archivo-hacia-una-lista
 Programa que lee desde un archivo datos de alumnos de un curso, que a medida que el archivo se va leyendo va insertando los registros en una lista.
+Ademas lee otro archivo de materias aporbadas, utilizando como clave foranea entre "Materias" y "Alumnos" la variable Legajo.
 
 Siendo la estructura "Alumnos" la siguiente:
 
@@ -19,8 +20,6 @@ Legajo int
 Libro int
 Folio int
 ```
-
-Ademas lee otro archivo de materias aporbadas, utilizando como clave foranea entre "Materias" y "Alumnos" la variable Legajo.
 - Cuando el sistema arranca, carga de los archivos.
 - Se presenta al usuario un menú que permite:
 1. Buscar un alumno y ver sus datos por Legajo.
